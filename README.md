@@ -1,2 +1,4 @@
 # Predictive-Analytics-for-Rocket-Stage-Reusability
-"PARRS" (Predictive Analytics for Rocket Stage Reusability) is a data science project designed to predict the success of SpaceX Falcon 9 rocket's first stage landings. The goal is to enable a competing aerospace startup to strategically outbid SpaceX in rocket launches
+"PARRS" (Predictive Analytics for Rocket Stage Reusability) is a data science project designed to predict the success of SpaceX Falcon 9 rocket's first stage landings. The goal is to enable a competing aerospace startup to strategically outbid SpaceX in rocket launches.
+
+Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore if we pivotal rolecan determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against space X for a rocket launch. In this project, we will create a machine learning pipeline to predict if the first stage will land given the data from the preceding labs.
